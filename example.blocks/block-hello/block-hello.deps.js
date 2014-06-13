@@ -1,0 +1,7 @@
+({
+    shouldDeps: [
+        'hello',
+        'example'
+    ]
+})
+

@@ -1,0 +1,12 @@
+.idea
+.enb/tmp
+node_modules
+*.lnk
+npm-debug.log
+libs
+
+examples/*/*
+!examples/index/index.bemjson.js
+!examples/index/jquery-1.11.1.js
+
+
